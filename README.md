@@ -20,7 +20,8 @@ A podcast-related website clone project mirrors popular platforms like Spotify o
     User Profiles:
 ## Screenshots
 
-![App Screenshot](https://github.com/armanali0786/social-media-app/assets/76746226/f09983c4-aa40-423d-8b6d-b1289671ff9b)
+
+![podstream_home ](https://github.com/armanali0786/Podstream/assets/76746226/0becd099-ddf4-47d0-bf8b-562340bea473)
 
 
 
